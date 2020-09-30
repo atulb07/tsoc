@@ -3,11 +3,7 @@
 .hero-img
 {
 
-<<<<<<< HEAD
     background-image:url(/assets/imgs/01.jpg),linear-gradient(to top, rgba(0, 0, 0, 0.575), rgba(0, 0, 0, 0.521));
-=======
-    background-image:url('assets/imgs/01.jpg'),linear-gradient(to top, rgba(0, 0, 0, 0.575), rgba(0, 0, 0, 0.521));
->>>>>>> 95580f76a2eadbcf38d65108d587f0f4bfa02ee9
     background-position: center ;
     background-size: cover;
 
